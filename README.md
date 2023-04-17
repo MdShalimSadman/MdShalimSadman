@@ -36,7 +36,7 @@ Tools:
 
 
 
-## Other Common Github Profile Sections
+## Others
 👩‍💻 I am currently working in React Js
 
 🧠 I'm currently learning Next Js
