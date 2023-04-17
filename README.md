@@ -10,7 +10,6 @@ I am a web development enthusiast and possess front-end development experience i
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shalim-sadman/)
-[![Gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=Gmail&logoColor=white)](shalimsadmandipro3@gmail.com)
 
 
 ## 🛠 Skills
