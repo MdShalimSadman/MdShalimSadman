@@ -38,7 +38,9 @@ Tools:
 
 ## Other Common Github Profile Sections
 👩‍💻 I am currently working in React Js
+
 🧠 I'm currently learning Next Js
+
 📫 How to reach me: shalimsadmandipro3@gmail.com
 
 
