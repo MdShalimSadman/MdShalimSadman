@@ -37,9 +37,9 @@ Tools:
 
 
 ## Others
-👩‍💻 I am currently working in React Js
+👩‍💻 I am currently working in Next Js
 
-🧠 I'm currently learning Next Js
+🧠 I'm currently learning full stack development
 
 📫 How to reach me: shalimsadmandipro3@gmail.com
 
